@@ -136,11 +136,10 @@ public static string Firebase_ApiKey { get; set; } = "{your own Firebase API Key
 
 The application has many functionalities in terms of views for both the **Farm Technician** and **Fleet Owner**.
 
-### Views
-#### Login Page
+### Login Page
 
 This view **provides functionality** to log in to the application as either a Farm Technician, or a Fleet Owner. This is essential to determine what views to display next.
-#### Farm Technician Devices Page
+### Farm Technician Devices Page
 
 This view **displays the devices** (sensors & actuators) associated with the container for the Farm Technician.
 
@@ -148,19 +147,19 @@ The devices include sensor readings for the container temperature & humidity, as
 
 Additionally, a Farm Technician can control the state of the container light, fan, and door lock.   
 
-#### Farm Technician Charts Page
+### Farm Technician Charts Page
 
 This view displays **historical data** over a 24 hour period for temperature and humidity readings for a Farm Technician container.
 
 A **graph** is shown for a seamless, user-friendly display of the data. Additionally, a scrollable section with specific data with allocated time readings. 
 
-#### Fleet Owner Page
+### Fleet Owner Page
 
 This view **displays a list** of the **containers** associated with the **Fleet Owner**.
 
 The Fleet Owner can **navigate** between the **Geo-Location** and **Security** tabs, to view the address, or any issues of a specific container.
 
-#### Geo-Location Information Page
+### Geo-Location Information Page
 
 This view **displays the information** related to the **Geo-Location** subsystem of a specific container associated with a **Fleet Owner**.
 
@@ -168,7 +167,7 @@ The Fleet Owner can view the container **address**, as well as the readings from
 
 Additionally, the **buzzer** actuator can be controlled by the Fleet Owner.  
 
-#### Security Information Page
+### Security Information Page
 
 This view **displays the information** related to the **Security** subsystem of a specific container associated with a **Fleet Owner**.
 
@@ -176,11 +175,11 @@ The Fleet Owner can view the readings from the **noise level, luminosity, motion
 
 Additionally, the **buzzer** and **door lock** actuators can be controlled by the Fleet Owner.  
 
-#### Fleet Owner Map Page
+### Fleet Owner Map Page
 
 This view **displays an interactable map containing address** markers of all the containers associated with the Fleet Owner.  
 
-#### Settings Page
+### Settings Page
 
 This view **displays figures** that can be changed for the purpose of notifications.
 
