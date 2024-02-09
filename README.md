@@ -210,6 +210,7 @@ The user can alter threshold limits, meaning for a specific sensor, if the readi
     </td>
   </tr>
 </table>
+
 #### Fleet Owner
 <table>
   <tr>
@@ -232,6 +233,7 @@ The user can alter threshold limits, meaning for a specific sensor, if the readi
     </td>
   </tr>
 </table>
+
 #### Settings
 <table>
   <tr>
@@ -243,6 +245,7 @@ The user can alter threshold limits, meaning for a specific sensor, if the readi
     </td>
   </tr>
 </table>
+
 ## :vertical_traffic_light: Controlling Actuators
 
 To control the actuators, there were 3 options, Device Twins, Direct Method, C2D Messages. 
