@@ -11,7 +11,7 @@
   
 - **:vertical_traffic_light: [Controlling Actuators](#vertical_traffic_light-controlling-actuators)**
 - **:cloud: [Sensor Readings](#cloud-sensor-readings)**
-- **:wrench: [Hardware](#wrench-hardware-&-connections)**
+- **:wrench: [Hardware & Connections](#wrench-hardware--connections)**
 - **:chart_with_upwards_trend: [Potential Future Work](#chart_with_upwards_trend-potential-future-work)**
 - **:key: [Contributions](#key-contributions)** 
 
