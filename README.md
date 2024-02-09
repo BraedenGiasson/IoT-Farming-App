@@ -43,7 +43,7 @@ They can also view container locations through a map.
 
 ## :pencil2: Application Setup
 
-:warning: Before setting anything up, see the **:wrench:[Hardware & Connections](#wrench-hardware-&-connections)** section to ensure you have all the **hardware** and **connections** needed to run the application properly. 
+:warning: Before setting anything up, see the **:wrench:[Hardware & Connections](#wrench-hardware--connections)** section to ensure you have all the **hardware** and **connections** needed to run the application properly. 
 
 Upon verification that you meet the application setup prerequisites, you will need to complete the following steps.
 
