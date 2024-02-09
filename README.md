@@ -68,7 +68,7 @@ If you have trouble locating these connection strings, refer below for how to ac
 }
 ```
 
-##### Get *EventHubName*, *ConsumerGroup* & *EventHubConnectionString*
+#### Get *EventHubName*, *ConsumerGroup* & *EventHubConnectionString*
 
 1. Sign in to Azure and navigate to your IoT Hub.
 
@@ -77,7 +77,7 @@ If you have trouble locating these connection strings, refer below for how to ac
 4. Get the ConsumerGroup from the section “Consumer Groups”, under “Event Hub Details” (default name is $Default).
 5. Get the EventHubConnectionString from the section “Event Hub compatible endpoint”.
 
-##### Get *StorageConnectionString* & *BlobContainerName*
+#### Get *StorageConnectionString* & *BlobContainerName*
 
 1. Sign in to Azure.
 
@@ -90,7 +90,7 @@ If you have trouble locating these connection strings, refer below for how to ac
 7. Create a container if not done already.
 8. Get the BlobContainerName, which is the name of your container.
 
-##### Get *HubConnectionString* & *DeviceId*
+#### Get *HubConnectionString* & *DeviceId*
 
 1. Sign in to Azure and navigate to your IoT Hub.
 
@@ -112,7 +112,7 @@ python3 farm.py
 
 \* *This command only works with python 3.*
 
-##### Get IOTHUB_DEVICE_CONNECTION_STRING
+#### Get IOTHUB_DEVICE_CONNECTION_STRING
 1. Sign in to Azure and navigate to your IoT Hub.
 2. Select “Devices” from the resource menu, under “Device management”.
 3. Select the specific device.
@@ -189,7 +189,7 @@ The user can alter threshold limits, meaning for a specific sensor, if the readi
 
 ## :camera: Application Screenshots
 
-#### Login Page
+### Login Page
 
 <table>
   <tr>
@@ -199,7 +199,7 @@ The user can alter threshold limits, meaning for a specific sensor, if the readi
   </tr>
 </table>
 
-#### Farm Technician 
+### Farm Technician 
 <table>
   <tr>
     <td>
@@ -211,7 +211,7 @@ The user can alter threshold limits, meaning for a specific sensor, if the readi
   </tr>
 </table>
 
-#### Fleet Owner
+### Fleet Owner
 <table>
   <tr>
     <td>
@@ -234,7 +234,7 @@ The user can alter threshold limits, meaning for a specific sensor, if the readi
   </tr>
 </table>
 
-#### Settings
+### Settings
 <table>
   <tr>
     <td>
@@ -374,7 +374,7 @@ For the project to **function** as intended, you will need the following **hardw
 - **[Raspberry Pi Power Supply](https://www.raspberrypi.com/products/type-c-power-supply/)**
 - **[Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)**
 
-#### Grove Base Hat GPIO Connections
+### Grove Base Hat GPIO Connections
 
 |                           Hardware                           |       Sensor/Actuator        | Grove Hat Pin | Bus  |      Subsystem(s)      |
 | :----------------------------------------------------------: | :--------------------------: | :-----------: | :--: | :--------------------: |
